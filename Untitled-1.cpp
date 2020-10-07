@@ -10,4 +10,7 @@ void cout_arr (int*& arr, int& size){
 
 int main() {
     cout<<"Hello\tWorld!!!\n";
+
+    int size = 10;
+    int* arr = new int[size];
 }
